@@ -9,7 +9,7 @@
      }
 
      addPhraseToDisplay() {
-
+        
      }
 
      checkLetter() {
